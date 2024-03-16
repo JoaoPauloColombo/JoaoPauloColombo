@@ -12,7 +12,7 @@
  
  🔭 I’m currently working on **API**
  
- 🌱 I’m currently learning **Node js, Java, ++, AWS**
+ 🌱 I’m currently learning **Node js, Java, C++, AWS**
 
 💬 Ask me about **Node.js, JAVA, Google Cloud... or anything [here](https://github.com/JoaoPauloColombo)**
 
