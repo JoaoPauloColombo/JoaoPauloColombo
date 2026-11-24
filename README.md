@@ -27,9 +27,6 @@
   <a href="https://www.linkedin.com/in/jo%C3%A3o-paulo-souza-colombo-401012215" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
   </a>
-  <a href="https://github.com/JoaoPauloColombo" target="_blank">
-     <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white" target="_blank" /> <!-- sqlite, safari, google-chrome are other good icon options -->
-  </a>
 </div>
 
  <hr/>
@@ -47,20 +44,11 @@
 <br>
 <div align=center>
   <img width=390 src="https://github-readme-streak-stats-salesp07.vercel.app/?user=joaopaulocolombo&count_private=true&theme=react&border_radius=10" alt="streak stats"/>
+<br/>
+
   <img width=390 src="https://github-readme-stats-salesp07.vercel.app/api?username=joaopaulocolombo&count_private=true&show_icons=true&theme=react&rank_icon=github&border_radius=10" alt="readme stats" />
   <br/>
   <img width=325 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=joaopaulocolombo&show_icons=true&theme=react&border_radius=10" alt="top langs" />
 
 </div>
 
-<br/><br/>
-
-<hr/>
-
-<br/>
-
-<div align="center">
-<a href='https://ko-fi.com/joaopaulocolombo#paypalModal' target='_blank'><img height='64' style='border:0px;height:64px;' src='https://storage.ko-fi.com/cdn/kofi1.png?v=3' border='0' alt='Buy Me a Coffee at ko-fi.com' /></a>
-</div>
-
-<br/>
